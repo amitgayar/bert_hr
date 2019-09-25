@@ -1,7 +1,7 @@
-apt-get install default-jre
-First Install Grobid by following instructions from "https://grobid.readthedocs.io/en/latest/Install-Grobid/"  and  "https://grobid.readthedocs.io/en/latest/Grobid-service/"
-To Install : cd grobid  && ./gradlew clean install
-Run virtual env : in ~/bert_hr/
+- apt-get install default-jre
+- First Install Grobid by following instructions from "https://grobid.readthedocs.io/en/latest/Install-Grobid/"  and         "https://grobid.readthedocs.io/en/latest/Grobid-service/"
+1. To Install : cd grobid  && ./gradlew clean install
+2. Run virtual env : in ~/bert_hr/
 To Run : ./gradlew run to run the server for grobid _parser_pdf.py
 Run :  script "~/bert_hr/grobid/grobid_parser_pdf.py" with all to-be-processed-pdf-files stored in "../data_pdf/" directory
 Results would be stored in "../data_xml/" directory

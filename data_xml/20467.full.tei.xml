@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /home/gayar/Documents/grobid-client-python/grobid-0.5.5/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.5" ident="GROBID" when="2019-09-04T15:51+0000">
+					<ref target="https://github.com/kermitt2/grobid">GROBID - A machine learning software for extracting information from scholarly documents</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_UU9AXyg">Human resistin, a proinflammatory cytokine, shows chaperone-like activity</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Proceedings of the National Academy of Sciences</publisher>
+				<availability status="unknown"><p>Copyright Proceedings of the National Academy of Sciences</p>
+				</availability>
+				<date type="published" when="2013-12-17">December 17. 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Suragani</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">D</forename><surname>Aadinarayana</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Pinjari</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tanneeru</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Guruprasad</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Banerjee</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pandey</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Chaudhuri</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">Z</forename><surname>Ehtesham</surname></persName>
+						</author>
+						<title level="a" type="main" xml:id="_UmvCw7B">Human resistin, a proinflammatory cytokine, shows chaperone-like activity</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main" xml:id="_MAwe83g">Proceedings of the National Academy of Sciences</title>
+						<title level="j" type="abbrev">Proceedings of the National Academy of Sciences</title>
+						<idno type="ISSN">0027-8424</idno>
+						<idno type="eISSN">1091-6490</idno>
+						<imprint>
+							<publisher>Proceedings of the National Academy of Sciences</publisher>
+							<biblScope unit="volume">110</biblScope>
+							<biblScope unit="issue">51</biblScope>
+							<biblScope unit="page" from="20467" to="20472"/>
+							<date type="published" when="2013-12-17">December 17. 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1073/pnas.1306145110</idno>
+					<note type="submission">Edited by Linda L. Randall, University of Missouri, Columbia, MO, and approved November 6, 2013 (received for review April 2, 2013)</note>
+					<note xml:id="_hKC9NGJ">wrote the paper. The authors declare no conflict of interest. This article is a PNAS Direct Submission. 1 To whom correspondence should be addressed. This article contains supporting information online at BIOCHEMISTRY</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_cJu5dV6"><p xml:id="_DS8VGqY">Resistin, a cysteine-rich adipocytokine, proposed as a link between obesity and diabetes in mice, was shown as a proinflammatory molecule in humans. We earlier reported that human resistin (hRes), a trimer, was resistant to heat and urea denaturation, existed in an oligomeric polydispersed state, and showed a concentrationdependent conformational change. These properties and an intimate correlation of hRes expression with cellular stress prompted us to investigate hRes as a possible chaperone. Here, we show that recombinant human resistin was able to protect the heat-labile enzymes citrate synthase and Nde1 from thermal aggregation and inactivation and was able to refold and restore their enzymatic activities after heat/guanidinium chloride denaturation. Furthermore, recombinant human resistin could bind misfolded proteins only. Molecular dynamics-based association-dissociation kinetics of hRes subunits pointed to resistin being a molecular chaperone. Bis-ANS, which blocks surface hydrophobicity, abrogated the chaperone activity of hRes, establishing the importance of surface hydrophobicity for chaperone activity. Replacement of Phe49 with Tyr (F49YhRes), a critical residue within the hydrophobic patch of hRes, although it could prevent thermal aggregation of citrate synthase and Nde1, was unable to refold and restore their activities. Treatment of U937 cells with tunicamycin/thapsigargin resulted in reduced hRes secretion and concomitant localization in the endoplasmic reticulum. Escherichia coli transformants expressing hRes could be rescued from thermal stress, pointing to hRes's chaperone-like function in vivo. HeLa cells transfected with hRes showed protection from thapsigargin-induced apoptosis. In conclusion, hRes, an inflammatory protein, additionally exhibited chaperone-like properties, suggesting a possible link between inflammation and cellular stress.</p><p xml:id="_zEdNcj5">protein folding | chaperokine R esistin, a small cysteine-rich secreted protein, is predominantly produced in human macrophages (1, 2). Resistin levels in human serum could neither be associated with obesity nor linked with insulin resistance (3), pointing to possible other role(s) for this hormone. We, and later others, showed that human resistin (hRes) is a proinflammatory molecule that stimulates the synthesis and secretion of TNF-α and IL-12 from macrophages through an NF-κB-activated pathway (4, 5). hRes mRNA levels are strongly induced by TNF-α and IL-6 in human peripheral blood mononuclear cells (6, 7). Although human and mouse resistin share 64.4 and 59% sequence homology at mRNA and amino acids levels, respectively, they differ considerably in terms of their structural organization (8). We earlier reported, based on extensive biophysical analyses, that recombinant human resistin (rhRes) is a highly stable molecule that exists in oligomeric states as a function of concentration with no major loss in helicity and displays slightly altered tertiary structure with an increase in temperature (9, 10). The variable oligomeric states and poly-dispersity of hRes are features often attributed to chaperones (11, 12). mRNA levels of resistin were earlier found to be down-regulated during endoplasmic reticulum (ER) stress in rodent adipocytes (13).</p><p xml:id="_VQTXYQy">Cellular stress in any form, including infection, can alter the cellular metabolism, leading to improperly folded, defective, and aggregated proteins within the ER. This induces ER stress, which then triggers unfolded protein response (UPR). Under such conditions, molecular chaperones play a crucial role in assisting proper folding of proteins. The observations that hRes (i) is a small molecule of 8-12 kDa; (ii) exists in different forms, including high molecular mass oligomers; (iii) has a secondary structure that is refractile to increasing temperature; (iv) is highly resistant to chemical denaturation; and (v) has expression levels that correlate with stress conditions led us to suggest that hRes could act as a molecular chaperone. In this study we show that rhRes binds to nonnative proteins in vitro and protects them from thermal and chemical denaturation while preserving their enzymatic activity. Escherichia coli cells, overexpressing hRes, could survive when exposed to higher temperatures. In mammalian cells, an elevated level of hRes was observed upon induction of ER stress by tunicamycin (tn) and thapsigargin (tp). hRes, an otherwise secreted protein, was retained in the cell and localized in the ER upon ER stress. HeLa cells transfected with hRes showed protection from tp-induced apoptosis. These observations prompted us to conclude that hRes, apart from being a proinflammatory molecule, possibly functions as a chaperone under stress conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_yXhaTXT">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_vrucvQ6">Homology Modeling of hRes Displayed Surface-Exposed Hydrophobic</head><p xml:id="_43GfDmT">Patches. The 3D structures of the trimeric and hexameric forms of wild-type hRes, built using MODELER by using mouse resistin as a template <ref type="formula" coords="1,381.54,492.92,15.69,8.31">(14)</ref>  <ref type="figure" coords="1,400.25,492.92,37.67,8.31">(Fig. S1A)</ref>, generated rmsd values of 0.213 and 0.533 Å for trimer and hexamer, respectively. The 3D model of trimer pointed to the presence of surface-exposed Significance This is a study of human resistin acting as a molecular chaperone. We show that human resistin, a proinflammatory cytokine secreted by human macrophages, is retained inside the cell during endoplasmic reticulum stress and functions like a chaperone to rescue the cell from apoptosis. The study implicates human resistin as a possible molecular link between cellular stress and inflammation during pathological conditions such as infections.</p><p xml:id="_NAdAZE5">Author contributions: N.Z.E. conceptualized and designed the research; M.S., V.D.A., A.B.P., and S.P. performed research; L.G. and K.T. carried out computational analyses; N.Z.E. contributed new reagents/analytical tools; M.S., V</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_7FCRFhB"><p xml:id="_hUgMdEV">Edited by Linda L. Randall, University of Missouri, Columbia, MO, and approved November 6, 2013 (received for review <ref type="bibr" coords="1,429.48,175.47,43.73,6.42">April 2, 2013)</ref> Resistin, a cysteine-rich adipocytokine, proposed as a link between obesity and diabetes in mice, was shown as a proinflammatory molecule in humans. We earlier reported that human resistin (hRes), a trimer, was resistant to heat and urea denaturation, existed in an oligomeric polydispersed state, and showed a concentrationdependent conformational change. These properties and an intimate correlation of hRes expression with cellular stress prompted us to investigate hRes as a possible chaperone. Here, we show that recombinant human resistin was able to protect the heat-labile enzymes citrate synthase and Nde1 from thermal aggregation and inactivation and was able to refold and restore their enzymatic activities after heat/guanidinium chloride denaturation. Furthermore, recombinant human resistin could bind misfolded proteins only. Molecular dynamics-based association-dissociation kinetics of hRes subunits pointed to resistin being a molecular chaperone. Bis-ANS, which blocks surface hydrophobicity, abrogated the chaperone activity of hRes, establishing the importance of surface hydrophobicity for chaperone activity. Replacement of Phe49 with Tyr (F49YhRes), a critical residue within the hydrophobic patch of hRes, although it could prevent thermal aggregation of citrate synthase and Nde1, was unable to refold and restore their activities. Treatment of U937 cells with tunicamycin/thapsigargin resulted in reduced hRes secretion and concomitant localization in the endoplasmic reticulum. Escherichia coli transformants expressing hRes could be rescued from thermal stress, pointing to hRes's chaperone-like function in vivo. HeLa cells transfected with hRes showed protection from thapsigargin-induced apoptosis. In conclusion, hRes, an inflammatory protein, additionally exhibited chaperone-like properties, suggesting a possible link between inflammation and cellular stress.</p><p xml:id="_WMW8Avp">protein folding | chaperokine R esistin, a small cysteine-rich secreted protein, is predominantly produced in human macrophages <ref type="bibr" coords="1,180.62,531.76,9.69,8.31" target="#b0">(1,</ref><ref type="bibr" coords="1,193.34,531.76,6.44,8.31" target="#b1">2)</ref>. Resistin levels in human serum could neither be associated with obesity nor linked with insulin resistance (3), pointing to possible other role(s) for this hormone. We, and later others, showed that human resistin (hRes) is a proinflammatory molecule that stimulates the synthesis and secretion of TNF-α and IL-12 from macrophages through an NF-κB-activated pathway <ref type="bibr" coords="1,137.88,598.31,9.90,8.31" target="#b3">(4,</ref><ref type="bibr" coords="1,150.69,598.31,6.60,8.31" target="#b4">5)</ref>. hRes mRNA levels are strongly induced by TNF-α and IL-6 in human peripheral blood mononuclear cells <ref type="bibr" coords="1,86.23,620.48,9.84,8.31" target="#b5">(6,</ref><ref type="bibr" coords="1,98.13,620.48,6.60,8.31" target="#b6">7)</ref>. Although human and mouse resistin share 64.4 and 59% sequence homology at mRNA and amino acids levels, respectively, they differ considerably in terms of their structural organization <ref type="bibr" coords="1,89.01,653.70,9.94,8.31" target="#b7">(8)</ref>. We earlier reported, based on extensive biophysical analyses, that recombinant human resistin (rhRes) is a highly stable molecule that exists in oligomeric states as a function of concentration with no major loss in helicity and displays slightly altered tertiary structure with an increase in temperature <ref type="bibr" coords="1,38.38,709.15,9.84,8.31" target="#b8">(9,</ref><ref type="bibr" coords="1,50.74,709.15,10.75,8.31" target="#b9">10)</ref>. The variable oligomeric states and poly-dispersity of hRes are features often attributed to chaperones <ref type="bibr" coords="1,200.06,720.21,14.26,8.31" target="#b10">(11,</ref><ref type="bibr" coords="1,216.62,720.21,10.79,8.31" target="#b11">12)</ref>. mRNA levels of resistin were earlier found to be down-regulated during endoplasmic reticulum (ER) stress in rodent adipocytes <ref type="bibr" coords="1,491.13,200.33,13.99,8.31" target="#b12">(13)</ref>.</p><p xml:id="_NCCvggv">Cellular stress in any form, including infection, can alter the cellular metabolism, leading to improperly folded, defective, and aggregated proteins within the ER. This induces ER stress, which then triggers unfolded protein response (UPR). Under such conditions, molecular chaperones play a crucial role in assisting proper folding of proteins. The observations that hRes (i) is a small molecule of 8-12 kDa; (ii) exists in different forms, including high molecular mass oligomers; (iii) has a secondary structure that is refractile to increasing temperature; (iv) is highly resistant to chemical denaturation; and (v) has expression levels that correlate with stress conditions led us to suggest that hRes could act as a molecular chaperone. In this study we show that rhRes binds to nonnative proteins in vitro and protects them from thermal and chemical denaturation while preserving their enzymatic activity. Escherichia coli cells, overexpressing hRes, could survive when exposed to higher temperatures. In mammalian cells, an elevated level of hRes was observed upon induction of ER stress by tunicamycin (tn) and thapsigargin (tp). hRes, an otherwise secreted protein, was retained in the cell and localized in the ER upon ER stress. HeLa cells transfected with hRes showed protection from tp-induced apoptosis. These observations prompted us to conclude that hRes, apart from being a proinflammatory molecule, possibly functions as a chaperone under stress conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_vP24GXz">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_uYyHrDw">Homology Modeling of hRes Displayed Surface-Exposed Hydrophobic</head><p xml:id="_JZp6Hsu">Patches. The 3D structures of the trimeric and hexameric forms of wild-type hRes, built using MODELER by using mouse resistin as a template <ref type="bibr" coords="1,381.54,492.92,15.69,8.31" target="#b13">(14)</ref>  <ref type="figure" coords="1,400.25,492.92,37.67,8.31" target="#fig_0">(Fig. S1A)</ref>, generated rmsd values of 0.213 and 0.533 Å for trimer and hexamer, respectively. The 3D model of trimer pointed to the presence of surface-exposed Significance This is a study of human resistin acting as a molecular chaperone. We show that human resistin, a proinflammatory cytokine secreted by human macrophages, is retained inside the cell during endoplasmic reticulum stress and functions like a chaperone to rescue the cell from apoptosis. The study implicates human resistin as a possible molecular link between cellular stress and inflammation during pathological conditions such as infections.</p><p xml:id="_cebFsBK">hydrophobic patches seen typically for chaperones. Four amino acids within the mature polypeptide, namely Leu42, Pro46, and Phe49, and Trp80, were found to be surface-exposed in the homology model. To validate these predictions, one of these amino acids, namely Phe at position 49, was mutated to Tyr by site-directed mutagenesis <ref type="figure" coords="2,146.21,100.21,39.65,8.31" target="#fig_0">(Fig. S1A)</ref>, and the impact of this mutation (F49Y) on the surface hydrophobicity was determined using the hydrophobe-selective dye 1-anilinonaphthalene-8-sulfonate (ANS). Although the wild-type rhRes showed ANS binding, as evident from spectroscopic measurement, the mutant F49YrhRes showed negligible binding <ref type="figure" coords="2,196.06,147.72,38.38,8.31" target="#fig_0">(Fig. S1B)</ref>. For all subsequent studies the wild-type human resistin (rhRes) and the mutant version (F49YrhRes) were used. The space-filled model of the hexamer is given as <ref type="figure" coords="2,148.71,176.18,25.66,8.31" target="#fig_1">Fig. S2</ref>.</p><p xml:id="_TsV4NXc">hRes Trimer Exhibited Molecular Rearrangement. Our earlier studies <ref type="bibr" coords="2,42.86,204.64,10.09,8.31" target="#b8">(9,</ref><ref type="bibr" coords="2,55.79,204.64,12.33,8.31" target="#b9">10)</ref> showed that the molecular mass of hRes varied between 11.3 and 600 kDa in solution. These oligomeric structural features of hRes, reminiscent of chaperone-like proteins, prompted us to carry out molecular simulation studies of hRes and F49YhRes structures in trimer and hexamer forms at 298 and 333 K using GROMACS, which were analyzed using trajectory files obtained during 20-ns simulations. The rmsd plots of trimer of hRes and F49YhRes showed the difference in association and dissociation. hRes trimer started converging after 10 ns of simulations. The rmsd convergence of protein at 298 K reached 0.5 and 0.6 nm for 333 K as observed at the end of simulations <ref type="figure" coords="2,270.08,299.59,17.81,8.31;2,42.86,309.12,7.45,8.31">(Fig.  S3</ref>). During the 20-ns molecular dynamic (MD) simulations, the hRes trimer C-terminal β-sandwich head domain rearranges from trimer to dimer-monomer arrangement, thus exposing internal cavity to solvent <ref type="figure" coords="2,130.96,337.64,43.33,8.31">(Fig. S3, iv)</ref>. F49YhRes trimer converged after 15 ns of the simulations for both 298 K and 333 K <ref type="figure" coords="2,252.90,347.10,31.29,8.31">(Fig. S4)</ref>. At the end of the simulations, the protein at 298 K reached the convergence near 0.5 nm, and at 333 K it converged near 0.6 nm. Compared with rhRes, F49YhRes trimer undergoes less rearrangement and prefers to retain the trimer conformation. However, no dissociation of hexamer hRes was observed during simulations either at 298 K or at 350 K <ref type="figure" coords="2,204.04,404.14,29.57,8.31" target="#fig_3">(Fig. S5</ref>).</p><p xml:id="_juqBEa7">rhRes and F49YrhRes Can Protect Citrate Synthase and Restriction Enzyme Nde1 from Thermal Aggregation. To experimentally demonstrate chaperone-like activity of rhRes, the ability of this adipocytokine to protect heterologous proteins from thermal denaturation was assessed. Light-scattering assay to monitor aggregation was carried out by measuring absorbance (320 nm) of thermally denatured citrate synthase (CS) <ref type="bibr" coords="2,165.48,480.56,15.69,8.31" target="#b14">(15)</ref> and Nde1 in the absence or presence of rhRes/F49YrhRes <ref type="figure" coords="2,160.83,490.03,23.67,8.31" target="#fig_0">(Fig. 1</ref>). These two enzymes were selected based on their thermal sensitivity and availability of convenient assays to monitor activity. The thermal stability of all of the proteins in the experiment, namely rhRes, F49YrhRes, CS, and Nde1, was also checked individually. As expected for molecular chaperones, rhRes and the mutant rF49YrhRes were highly stable at 45°C for more than 45 min, showing negligible aggregation, where as CS and Nde1 aggregated considerably with time ( <ref type="figure" coords="2,324.96,100.20,21.72,8.31" target="#fig_0">Fig. 1</ref> A and B, respectively). We then examined whether rhRes can protect CS and Nde1 from thermal aggregation, a property common to most chaperones <ref type="bibr" coords="2,446.68,119.20,14.35,8.31" target="#b15">(16)</ref>. Nde1 in the presence of 0.15 μM rhRes was highly stable <ref type="figure" coords="2,448.44,128.66,31.08,8.31" target="#fig_0">(Fig. 1B</ref>) compared with incubation with 0.15 μM lysozyme (negative control). Likewise, rhRes could protect CS against thermal aggregation, and this protection was similar to that seen using a known chaperone, GroEL <ref type="figure" coords="2,331.14,166.70,32.41,8.31" target="#fig_0">(Fig. 1C)</ref>. The ability to protect Nde1 and CS from thermal denaturation remained unaltered for the mutant F49YrhRes ( <ref type="figure" coords="2,304.88,185.42,60.31,8.72" target="#fig_0">Fig. 1 B and C)</ref>, consistent with its thermal stability <ref type="figure" coords="2,509.44,185.70,33.01,8.31" target="#fig_0">(Fig. 1A)</ref>. These results clearly demonstrate that both rhRes and F49YrhRes can protect proteins from thermal denaturation/aggregation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_X7pBvSD">Nde1 and CS Protected from Denaturation by rhRes Were Enzymatically</head><p xml:id="_DwWtNUV">Active. Having shown that rhRes can protect Nde1 and CS from thermal denaturation, we investigated if the protected proteins are also functionally active. Enzyme activity of Nde1, after heat denaturation at 60°C for 20 min, was measured using pUC18. Linearized pUC18 was visualized by electrophoresis on 1% agarose gel. Upon heat denaturation, Nde1 could not cleave pUC18 ( <ref type="figure" coords="2,517.13,281.12,25.13,8.31" target="#fig_1">Fig. 2A</ref>, lane 3); however, when Nde1 was heat-denatured in the presence of rhRes, much of its DNA cleavage activity was retained as evident from a single linearized pUC18 band after Nde1 digestion ( <ref type="figure" coords="2,518.07,309.58,24.22,8.31" target="#fig_1">Fig. 2A</ref>, lane 4). In the presence of either F49YrhRes or control protein BSA, Nde1 activity was lost ( <ref type="figure" coords="2,407.40,328.62,24.29,8.31" target="#fig_1">Fig. 2A</ref>, lanes 5 and 6, respectively). It therefore appeared that rhRes not only can prevent physical aggregation of Nde1 upon heating, but also can preserve the functional activity of the protein. The mutant F49YrhRes, although it protected the protein from aggregation, could not prevent loss of enzyme activity upon heat treatment, pointing to the functional importance of the F49 residue of hRes.</p><p xml:id="_Zx3zEYD">The ability of rhRes and F49YrhRes to refold and restore enzyme activity of unfolded protein after denaturation was then assessed. Denaturation with 6 M guanidinium chloride (GdnHCl) resulted in complete loss of CS enzyme activity <ref type="figure" coords="2,483.98,423.58,28.34,8.31" target="#fig_1">(Fig. 2B</ref>). Denatured CS was then diluted in the appropriate buffer to refold in the presence of GroEL (positive control) (17), rhRes, or F49YrhRes. Refolding of CS was assessed in terms of the recovery of its enzyme activity, monitored by the disappearance of acetyl-CoA at 233 nm in a reaction mix containing oxaloacetic acid, acetyl-CoA, and nitrobenzoic acid. CS enzyme activity was plotted as the percentage of the native activity. It could be seen <ref type="figure" coords="2,301.38,499.55,30.29,8.31" target="#fig_1">(Fig. 2B</ref>) that, although GdnHCl-denatured CS showed almost complete loss of enzyme activity, when refolded in the presence of either rhRes or GroEL, about 75-80% of the activity was regained. CS refolded in the presence of F49YrhRes was found to be functionally inactive <ref type="figure" coords="3,142.58,417.18,33.10,8.31" target="#fig_1">(Fig. 2B)</ref>. These results reconfirmed the earlier observation that, although rhRes can restore the activity of the refolded denatured protein, the F49YrhRes mutant cannot do so.</p><p xml:id="_XkxvWKq">Exposed-Surface Hydrophobicity Is Important for Chaperone Activity.</p><p xml:id="_GTYag5K">We next evaluated the importance of total surface hydrophobicity, rather than a single hydrophobic amino acid change, on chaperone activity. The dimeric analog of ANS, 4,4′-bis-1-anilinonaphthalene-8-sulfonate (bis-ANS), was photo-incorporated onto the rhRes molecule by UV irradiation and used in our assays. If the hydrophobic patches on the surface of rhRes were important for chaperone-like activity, one would expect that binding of bis-ANS to rhRes (bis-ANS-rhRes) should not protect proteins from functional inactivation at high temperature. Nde1 (10 units) was incubated at 60°C for 20 min in the absence or presence of either rhRes or bis-ANS-rhRes. The heat-denatured Nde1 was then used to digest pUC18. It is evident that rhRes could protect the functional activity of Nde1 from thermal denaturation <ref type="figure" coords="3,79.27,597.12,58.52,8.31" target="#fig_1">(Fig. 2C, lane 4)</ref>, but bis-ANS-rhRes could not do so as evident from the presence of undigested pUC18 <ref type="figure" coords="3,220.30,606.59,56.56,8.31" target="#fig_1">(Fig. 2C, lane 5</ref>). These experiments demonstrate that the hydrophobic residues on the surface of rhRes are important for chaperone-like activity.</p><p xml:id="_BWbQVS6">rhRes Could Bind Nonnative Proteins Only. To explore if rhRes, like chaperones, differentiates between native and nonnative proteins, we incubated rhRes with native or denatured CS in equimolar concentration, followed by immunoprecipitation with antihRes antibodies. The immunoprecipitated complex was then fractionated by SDS/PAGE and stained with Coomassie Blue <ref type="figure" coords="3,38.38,701.27,27.81,8.31">(Fig. 3)</ref>. It could be seen that rhRes could complex with denatured CS <ref type="figure" coords="3,79.20,710.73,68.73,8.31">(Fig. 3A, lane 3)</ref> whereas native CS could not be coimmunoprecipitated with rhRes <ref type="figure" coords="3,174.84,720.20,65.07,8.31" target="#fig_1">(Fig. 3A, lane 2)</ref>. A similar experiment was performed with the randomly selected protein Late Expression Factor 4 (LEF4) <ref type="figure" coords="3,424.17,62.39,31.86,8.31">(Fig. 3B)</ref>. It once again became evident that rhRes could bind and hence coimmunoprecipitate denatured LEF4 <ref type="figure" coords="3,363.00,81.78,62.44,8.31">(Fig. 3B, lane 3)</ref> but not native LEF4 <ref type="figure" coords="3,508.87,81.78,33.09,8.31;3,296.90,91.47,25.66,8.31" target="#fig_1">(Fig. 3B,  lane 2)</ref>. These observations lead us to conclude that rhRes, like other molecular chaperones, binds only to nonnative proteins.  <ref type="figure" coords="3,360.28,255.72,77.57,8.31">(Fig. 3C, center bar)</ref> survived the thermal shock approximately sevenfold more than those transformed with pQE30 basal vector <ref type="figure" coords="3,381.14,275.10,31.26,8.31">(Fig. 3C</ref>, left bar) whereas those transformed with pQE30F49YhRes showed marginal (approximately onefold) survival <ref type="figure" coords="3,362.72,294.49,69.80,8.31">(Fig. 3C, right bar)</ref>. These observations provide evidence that hRes also functions as a molecular chaperone under physiological conditions.</p><note type="other" xml:id="_gZpzvCR">rhRes. To gain insights into the chaperone activity of rhRes under physiological conditions, we investigated if hRes could rescue E. coli growth after prolonged thermal shock. E. coli M15 cells were transformed with pQE30 plasmid vector or the recombinant constructs pQE30hRes or pQE30F49YhRes carrying the wild-type hRes gene or F49YhRes mutant, respectively, under the inducible lac promoter. The expression of hRes or its mutant was induced by 1 mM isopropyl β-D-1-thiogalactopyranoside (IPTG) for 2 h. Uninduced and induced cultures were diluted in a 1:1,000 ratio and grown at either 37°C or 50°C for 45 min, and 10 μL of each sample was then spread on agar plates with appropriate antibiotics. It could be seen that E. coli cells expressing hRes</note><p xml:id="_ZE64cBw">hRes Is Overexpressed During Tunicamycin and Thapsigargin-Induced ER Stress. The human leukemic monocyte lymphoma cell line U937 was used for these studies as they were shown to express resistin in high abundance <ref type="bibr" coords="3,400.70,362.36,14.35,8.31" target="#b17">(18)</ref>. ER stress was induced in U937 cells either by tn, which blocks the synthesis of N-glycans, or tp, which causes Ca 2+ depletion in ER. The induction of ER stress was confirmed by the observed increase in the levels of Grp78, a well-known ER stress marker <ref type="figure" coords="3,411.81,401.13,31.70,8.31" target="#fig_4">(Fig. S6)</ref>. The levels of hRes were monitored by Western blot with anti-hRes antibody after 24 h of treatment under increasing concentrations of tn/tp (2-15 μg/mL). Levels of resistin were found to increase upon induction of ER stress as a function of tn or tp concentration <ref type="figure" coords="3,477.18,439.63,64.78,8.72;3,296.90,449.61,45.26,8.31">(Fig. 4 A and B,  respectively)</ref>. Transcript analyses using quantitative PCR (qPCR) also confirmed the induction of resistin during ER stress by either tn or tp <ref type="figure" coords="3,330.42,468.66,117.26,8.72">(Fig. 4 C and D, respectively)</ref>. Taken together, these results show that ER stress induced resistin expression both at mRNA and protein levels.</p><p xml:id="_9kgpHU2">Resistin Is Retained in ER upon ER Stress. Having observed that hRes, a secretory protein, is induced during ER stress, we next asked if the secretion of hRes is affected during ER stress. U937 cells were treated with either tn or tp (5 μg/mL), and secretory hRes levels in the supernatant, collected at 6, 12, and 24 h after treatment, were analyzed by ELISA (Adipo Gen). hRes is overexpressed during tunicamycin and thapsigargin induced ER stress; ELISA data showed secretion impairment resulting in an about 40-50% decline in resistin secretion <ref type="figure" coords="3,463.18,584.48,62.02,8.72" target="#fig_3">(Fig. 5 A and B)</ref>.</p><p xml:id="_7z3y6RX">To address this issue of differential secretion, we examined the localization of hRes during ER stress by confocal microscopy. Immunocytochemistry was performed on untreated and 5 μg/mL tn-or tp-treated U937 cells for 24 h using antibodies specific to hRes or calreticulin, an ER resident protein. It can be seen that hRes colocalized with calreticulin <ref type="figure" coords="3,439.37,642.70,98.80,8.31" target="#fig_3">(Fig. 5C, merged panel)</ref>. Furthermore, the increase in expression of hRes after 24 h of treatment in terms of increased Cy3 intensity is also evident. It is therefore apparent that, under conditions of ER stress, although resistin continues overall to be induced, the bulk of it remains within ER. These results demonstrate that tn/tp-induced stress caused a reduction in the levels of secretory resistin despite increased expression levels and that the bulk of the intracellular hRes was localized to the ER. HeLa cells (human cervical adenocarcinoma cells) were used for studying the impact of transiently expressed hRes in rescuing cells from ER stress-induced apoptosis. HeLa cells were transfected with either empty vector pCDNA or pCDNAhRes carrying hRes gene (schematically represented in <ref type="figure" coords="4,150.12,280.27,22.93,8.31">Fig. S7</ref>), and expression of resistin was confirmed by RT-PCR <ref type="figure" coords="4,134.27,289.73,32.06,8.31">(Fig. S8)</ref>. No endogenous expression of resistin at the transcript level could be registered in HeLa cells <ref type="figure" coords="4,270.89,299.20,17.02,8.31;4,42.86,308.67,7.43,8.31">(Fig.  S8</ref>, lanes UT and T-EV). Apoptosis was induced in these cells using 15 μg of tp for 24 h, and the percentage of cells undergoing apoptosis was scored using Annexin V staining per the manufacturer's guidelines (Invitrogen). It could be seen that expression of hRes gene in HeLa cells could successfully rescue these cells from thapsigargin-induced apoptosis <ref type="figure" coords="4,167.13,356.06,28.59,8.31" target="#fig_4">(Fig. 6)</ref>. These results demonstrate that resistin aids cells in restoring ER homeostasis, thereby protecting them from apoptosis.</p><p xml:id="_Y84MU3m">Summarizing, hRes, earlier known to be a proinflammatory cytokine, exhibited chaperone-like activity and can provide protections to E. coli from thermal stress and to mammalian HeLa cells from ER stress-induced apoptosis. In line with its role as a possible chaperone under stress conditions, this secretory protein was retained in ER during stress, suggesting a possible link between inflammation and cellular stress. Discussion hRes, a small cysteine-rich secretory protein produced in macrophages, although initially proposed to be a link between diabetes and insulin resistance, is emerging as an important player in inflammation <ref type="bibr" coords="4,363.63,301.01,10.09,8.31" target="#b3">(4,</ref><ref type="bibr" coords="4,375.87,301.01,6.72,8.31" target="#b4">5)</ref>. Our previous studies showed that rhRes is an extremely stable molecule whose structure was insignificantly altered as a function of temperature <ref type="bibr" coords="4,446.57,320.06,10.09,8.31" target="#b8">(9)</ref>. Extending our earlier studies, we now report that hRes has chaperone-like activity that can protect proteins from denaturation and retain their activity.</p><p xml:id="_YNQnJQF">The molecular model of hRes, constructed using a mouse 3D model as a template, shows an interesting funnel-shaped structure, with an orifice at one end, for probable interaction with the unfolded proteins. Based on this homology model, four sites on hRes, namely Leu42, Pro46, Phe49, and Trp80, were found to be exposed on the surface. These residues may play a role in imparting surface hydrophobicity to the molecule. Surface hydrophobicity is critical for chaperones as these are considered instrumental in interactions with unfolded or misfolded proteins <ref type="bibr" coords="4,301.38,434.35,14.35,8.31" target="#b18">(19)</ref>, and replacement of any of these hydrophobic residues with hydrophilic residues should result in significant structural alterations, which would then disrupt interaction with misfolded proteins, as reported for some heat-shock proteins <ref type="bibr" coords="4,510.68,462.98,14.99,8.31" target="#b19">(20)</ref>. We observed that the same replacement of Phe-49 by Tyr drastically reduced the ability of hRes to interact with misfolded proteins, implicating its importance in wild-type rhRes. Increased molecular rearrangements accompanied by higher affinity for unfolded proteins is considered a paradigm of chaperone action <ref type="bibr" coords="4,527.65,510.61,14.98,8.31" target="#b20">(21)</ref>. Comparison of mutant F49YhRes with wild-type hRes, in terms of chaperone activity, gave results consistent with these predictions. Furthermore, ANS-binding analysis of F49YrhRes showed a decrease in absorbance compared with rhRes, a reflection of the loss of surface hydrophobicity due to F49Y mutation.</p><p xml:id="_YYVWqdJ">The computational simulation data served as the basis for experiments to demonstrate chaperone-like function of the hRes protein by using heat-and the alkali-labile enzyme CS and the restriction enzyme Nde1. Unlike CS and Nde1, rhRes was refractile to heat-induced aggregation, pointing to its thermal stability. However, when both heat-labile CS and Nde1 proteins were individually incubated at 45°C for 45 min in the presence of rhRes not only could aggregation be prevented, but also almost 80% of activities could be restored. The mutant F49YrhRes could not assist in restoring enzyme activities, although it could provide protection from thermal aggregations. It is likely that structural alteration and the declined molecular reassociation due to F49Y change, although rendering the mutant protein refractile to thermal aggregation, caused subtle change(s) in structure that prevented the ability of F49YrhRes to act as a chaperone. F49YrhRes was able to make a complex with denatured CS, similar to wild-type rhRes, when assayed by coimmunoprecipitation. E. coli M15 cells were transformed with plasmid pQE30, pQE30hRes, or pQE30F49YhRes. Note that after heat treatment for 45 min at 50°C, E. coli M15 cells transformed with hRes showed a more than sevenfold survival compared with pQE30 vector control, whereas those transformed with mutant F49YhRes showed significantly reduced survival compared with wild-type hRes. Each experiment was carried out in triplicate. The error bars represent SEM. <ref type="figure" coords="4,42.86,622.95,17.32,6.42">Fig. 4</ref>. Resistin is up-regulated during tunicamycin or thapsigargin treatment. U937 cells were treated with increasing concentrations (0, 2, 5, 10, and 15 μg/mL) of tn (A) or tp (B) for 24 h, and resistin expression levels were determined by Western blot. Western blot figures are representative of three independent experiments. Note the up-regulation of resistin protein expression with increasing concentration of tn or tp. In another experiment, U937 cells were treated with 5 μg/mL of tn (C) or tp (D) for 0, 6, 12, and 24 h, and resistin transcript levels were quantified using qPCR. Note the increase in resistin mRNA levels over time during tn/tp-induced ER stress. Statistical analysis was performed using one-way ANOVA and post-Dunnett's multiple comparison test. ***P &lt; 0.0001, *P &lt; 0.01. Each experiment was carried out in triplicate.</p><p xml:id="_45y4XJf">Bis-ANS was used to mask the hydrophobic patch on the surface of wild-type hRes. The activity of Nde1, when incubated with bis-ANS-treated hRes, could not be protected from thermal denaturation, indicating the importance of the hydrophobic patch in the chaperone property of hRes. ATP was not required for preventing the aggregation of CS due to high temperature, suggesting that hRes is an ATP-independent chaperone. Similar examples of proteins that work like a chaperone under cellular stress conditions in the absence of ATP hydrolysis have been reported; these include Clusterin <ref type="bibr" coords="5,178.45,471.72,14.98,8.31" target="#b21">(22)</ref>, which is a secretory mammalian chaperone, and Spy <ref type="formula" coords="5,172.24,481.30,14.99,8.31">(23)</ref>, an E. coli periplasmic protein that showed chaperone-like activity in vitro. Measurement of ATPase activity of rhRes revealed 0.193 mM (K m ) and 0.128 nM/μg/min (V max ), which were lower measurements than those of GroEL, DnaK, HSP100, and HSP104. The same measurements of ATPase activity for F49YhRes were 0.362 mM (K m ) and 0.428 nM/μg/min (V max ).</p><p xml:id="_WGaPZ6n">In vivo evidence on the role of hRes as a possible chaperone came from E. coli growth rescue after heat treatment. It was apparent that survival of E. coli transformed with pQE30hRes was quantitatively higher compared with cells transformed with pQE30F49YhRes and pQE30 vector alone. These data confirm that overexpression of hRes can rescue growth of E. coli after heat shock. hRes expression could also successfully rescue HeLa cells from thapsigargin-induced apoptosis.</p><p xml:id="_BzHgZDH">Cellular responses to stress can progress to apoptosis or adaptive responses <ref type="bibr" coords="5,93.82,634.14,14.10,8.31" target="#b23">(24)</ref>. Stress induces different responses depending upon its nature, duration, and severity <ref type="bibr" coords="5,180.56,643.73,14.10,8.31" target="#b24">(25)</ref>. The adaptive response involves the induction of both constitutively expressed or induced conserved heat-shock proteins and chaperones. Celluar stress is often manifested by the accumulation of unfolded or misfolded proteins in the ER, leading to UPR in eukaryotes <ref type="bibr" coords="5,233.24,681.94,14.91,8.31" target="#b25">(26)</ref>. With in vitro evidence of hRes as a probable chaperone, we further tested its role during induced ER stress by checking the expression levels and localization of hRes during tn-and tp-induced ER stress in U937 cells. Levels of hRes protein were observed to be substantially elevated under both these treatments. It therefore appears that, like many other chaperones, hRes was also overexpressed during ER stress. Interestingly, hRes also colocalized with calreticulin in a time-dependent manner, indicating that it remained in the ER during stress induced by tn and tp treatment. This is in agreement with literature reports that chaperones are restricted to the ER upon stress to assist in the refolding of misfolded proteins <ref type="bibr" coords="5,419.18,119.54,14.35,8.31" target="#b26">(27)</ref>.</p><p xml:id="_mF33yN8">The logical question, then, is that, if hRes is secreted out, how can it possibly function as a chaperone inside the cell? We therefore looked at the levels of secreted hRes under normal and stress conditions. Levels of secreted hRes during ER stress were significantly less compared with nonstress conditions. However, intracellular levels of hRes under conditions of ER stress were significantly higher. This supports the scenario that, upon ER stress, a significant fraction of hRes was retained inside the cell, within the ER, to aid in protein folding. As a corollary, under non-ER stress conditions, the secretory hRes then functions as a proinflammatory molecule.</p><p xml:id="_8CeFDp4">In two prospective studies of patients with sepsis (28), resistin was observed to be a marker of severity of disease and was a possible mediator of prolonged inflammatory state seen in critically ill patients. hRes was suggested as a biomarker for disease staging and treatment end-point determination in tuberculosis <ref type="bibr" coords="5,339.48,281.68,14.35,8.31" target="#b28">(29)</ref>. Some human disorders, such as Alzheimer's disease, Parkinson's disease, cystic fibrosis, and neuronal damage by ischemia, are related to ER stress, which leads to intraluminal accumulation of unfolded proteins <ref type="bibr" coords="5,431.71,310.31,14.35,8.31" target="#b29">(30)</ref>. The presence of an ER stress response element in the resistin gene additionally points to its role in stress-signaling pathways. The unfolded protein responses are central to inflammatory disorders, thereby establishing a fine link between protein folding and inflammation <ref type="bibr" coords="5,524.01,348.52,14.35,8.31" target="#b30">(31)</ref>.</p><p xml:id="_fx4jWN6">Cellular stress and strong inflammatory response are thus increasingly being linked to a number of human disorders (31). Our observations on chaperone-like features of hRes constitute a line of evidence in support of this function of hRes. The hypothetical model in <ref type="figure" coords="5,376.15,396.14,27.25,8.31">Fig. S9</ref> explains the dual nature of human resistin. Human resistin is predominantly secreted from macrophages as a proinflammatory cytokine upon stimulations such as those caused by infection. Upon stress, resistin is retained inside the ER of stressed cells where it functions like a chaperone,  The percentage of cells undergoing apoptosis in untransfected condition was normalized to 100 and results were plotted. Statistical analysis was performed by two-way ANOVA and post-Bonferroni test (***P &lt; 0.0001, **P &lt; 0.001). Each experiment was carried out in triplicate.</p><p xml:id="_dG4QQBz">helping in refolding of misfolded proteins, thereby rescuing the cells from stress-induced apoptosis. hRes therefore may have a role in modulating UPR during ER stress under physiological conditions in addition to its role as a regulator of inflammation <ref type="bibr" coords="6,42.86,91.19,10.09,8.31" target="#b3">(4,</ref><ref type="bibr" coords="6,55.11,91.19,10.93,8.31" target="#b31">32)</ref>. The role of hRes as a chaperone-like molecule is strongly indicative of this chemokine acting as a connecting link between stress response and inflammation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_JSbP8zV">Materials and Methods</head><p xml:id="_qDU8NyB">Also see SI Materials and Methods for more information.</p><p xml:id="_2FC8Tq6">Cell Lines and Cell Culture. U937 and HeLa cells (procured from National Centre for Cell Science, Pune, India) were cultured in RPMI-1640 media supplemented with 2 mM L-glutamine, 100 U of penicillin/mL, 100 μg of streptomycin/mL, and 10% FBS and maintained at 37°C with 5% (vol/vol) CO 2 .</p><p xml:id="_W8E8XRe">MD Simulations. MD simulations of hRes and F49YhRes structures in trimer and hexamer forms at 298 K and 333 K for 20 ns were carried out using GROMOS96 53a6 force fields in GROMACS-4.0.7. The graphs were generated using "Grace."</p><p xml:id="_3pC6nHZ">Purification of Recombinant Wild-Type and Mutant hRes Protein. E. coli M15 cells were transformed with plasmids pQE30hRes <ref type="figure" coords="6,216.18,262.27,24.33,6.42">(Fig. S7</ref>) and pQE30-F49YhRes. Recombinant proteins (rhRes and F49YrhRes) were purified by affinity chromatography as described <ref type="bibr" coords="6,170.14,280.52,7.67,6.42" target="#b8">(9)</ref>, and the purity was checked by FPLC and mass spectrometry. Protein had no detectable contaminants.</p><p xml:id="_DUQPynw">Aggregation Assays. One micromolar of each protein, namely of rhRes, F49YrhRes, CS, and Nde1 (5 U), was incubated at 45°C for 45 min, and the aggregation was monitored by light scattering at 320 nm using a PerkinElmer spectrofluorometer as per protocol described earlier <ref type="bibr" coords="6,494.83,61.63,11.26,6.42" target="#b14">(15)</ref>.</p><p xml:id="_6QCB3YA">Coimmunoprecipitation Assays. Five microliters of polyclonal antisera against hRes was used to coimmunoprecipitate native and denatured CS enzyme and LEF4 (33) protein.</p><p xml:id="_EjXRVAB">Growth Rescue of E. coli. The IPTG-induced and uninduced E. coli M15 cells, transformed with either pQE30 vector alone or pQE30hRes or pQE30F49YhRes and incubated at either 37°C or 50°C for 45 min, were checked for cfu to assess fold differences upon survival.</p><p xml:id="_nHFGVY4">Tp-Induced Apoptosis of HeLa Cells. Resistin was cloned with its secretory signal in pCDNA (mammalian expression vector) (pCDNAhRes) <ref type="figure" coords="6,502.76,172.24,29.45,6.42">(Fig. S7B)</ref> and transfected in HeLa cells using Lipofectamine 2000 (Invitrogen) after 80% confluency in serum and antibiotic-free DMEM media. Empty pCDNA was used as control. After 24 h, expression of resistin was confirmed by RT-PCR. Apoptosis was induced by 15 μg of tp for 24 h. The percentage of apoptosed cells were scored by FACS (BD) after Annexin V (Invitrogen) staining. Statistical analysis was performed using one-way ANOVA and post analysis was carried out using Dunnet's multiple comparison test.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0" coords="2,42.86,694.67,503.58,6.42;2,42.86,703.62,503.55,6.42;2,42.86,712.58,503.54,6.42;2,42.86,721.54,97.28,6.42"><head>Fig. 1 .</head><label>1</label><figDesc xml:id="_YN8hwFa">Fig. 1. rhRes and mutant (F49YrhRes) proteins prevent thermal aggregation of proteins. (A) Light-scattering assay of thermal aggregation. Absorbance at 320 nm was measured for rhRes, F49YrhRes, and CS at 45°C for 45 min. (B) Resistin prevents thermal aggregation of Nde1 and (C) citrate synthase. The kinetics of Nde1 or CS aggregation, alone or in the presence of rhRes, F49YrhRes, or lysozyme, were assayed. Each experiment was carried out in triplicate. The error bars represent SEM.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1" coords="3,38.38,201.16,245.06,6.42;3,38.38,210.17,245.08,6.42;3,38.38,219.13,245.03,6.42;3,38.38,228.08,245.05,6.42;3,38.38,237.04,245.05,6.42;3,38.38,246.00,245.06,6.42;3,38.38,254.96,245.03,6.42;3,38.38,263.97,245.03,6.42;3,38.38,272.93,245.04,6.42;3,38.38,281.88,245.02,6.42;3,38.38,290.84,245.02,6.42;3,38.38,299.80,245.08,6.42;3,38.38,308.76,245.06,6.42;3,38.38,317.71,245.04,6.42;3,38.38,326.73,245.01,6.42;3,38.38,335.68,245.07,6.42;3,38.38,344.64,245.07,6.42;3,38.38,353.60,245.07,6.42;3,38.38,362.56,245.05,6.42;3,38.38,371.51,176.04,6.42"><head>Fig. 2 .</head><label>2</label><figDesc xml:id="_mjzRvSs">Fig. 2. rhRes-protected Nde1 and CS enzymes are functionally active. (A) Residual enzyme activity of thermal-denatured Nde1 in the absence or presence of rhRes, F49YrhRes, and control protein BSA. Lane M, 1-kb molecular size marker; lane 1, uncut pUC18; lane 2, pUC18 digested with native Nde1; lane 3, with heat-denatured Nde1; lane 4, with rhRes-treated heatdenatured Nde1; lane 5, with F49YrhRes-treated heat-denatured Nde1; lane 6, with heat-denatured Nde1 with BSA. The gel is a representative of three independent experiments. (B) Residual activity of GdnHCl-denatured CS (Den CS), refolded CS in the presence of chaperone GroEL (Den CS+GroEL+ ATP), refolded CS in the presence of rhRes (Den CS+rhRes), and refolded CS in the presence of F49YrhRes (Den CS+F49YrhRes). Control is the native CS (native). Enzyme activity was assayed by monitoring the disappearance of acetyl-CoA at 233 nm and expressed as the perecentage of activity of native CS (native). Each experiment was carried out in triplicate. The error bars represent SEM. (C) Residual Nde1 activity assay after denaturation with bis-ANS photoincorporated hRes. Lane M, 1-kb DNA ladder; lane 1, undigested pUC18; lane 2, pUC18 digested with native Nde1; lane 3, with heat-denatured Nde1; lane 4, with heat-denatured Nde1 in the presence of rhRes; and lane 5, with heat-denatured Nde1 in the presence of bis-ANS-rhRes. The gel is a representative of three independent experiments.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2" coords="4,42.86,54.43,196.38,6.42;4,42.86,63.39,196.36,6.42;4,42.86,72.35,196.32,6.42;4,42.86,81.30,196.33,6.42;4,42.86,90.26,196.35,6.42;4,42.86,99.22,196.35,6.42;4,42.86,108.23,196.31,6.42;4,42.86,117.19,196.32,6.42;4,42.86,126.15,196.32,6.42;4,42.86,135.11,196.38,6.42;4,42.86,144.07,196.32,6.42;4,42.86,153.02,196.36,6.42;4,42.86,161.98,196.37,6.42;4,42.86,171.00,196.31,6.42;4,42.86,179.95,196.32,6.42;4,42.86,188.91,196.34,6.42;4,42.86,197.87,503.53,6.42;4,42.86,206.83,242.43,6.42"><head></head><label></label><figDesc xml:id="_rxTFU47">Fig. 3. rhRes binds only to nonnative proteins, and hRes can rescue E. coli cells from thermal shock. (A) Coimmunoprecipitation of rhRes with native and denatured CS. The different lanes are the following: native CS (lane 1); coimmunoprecipitation of rhRes after incubating with native CS (lane 2); or with GdnHCl-denatured CS (lane 3). (B) Coimmunoprecipitation of rhRes with native and denatured LEF4. Native LEF4 (lane 1); coimmunoprecipitation of rhRes after incubating with native LEF4 (lane 2); or with GdnHCl-denatured LEF4 (lane 3). Arrowheads indicate relative position of the proteins. The gel pictures are representative of three independent experiments. (C ) E. coli M15 cells were transformed with plasmid pQE30, pQE30hRes, or pQE30F49YhRes. Note that after heat treatment for 45 min at 50°C, E. coli M15 cells transformed with hRes showed a more than sevenfold survival compared with pQE30 vector control, whereas those transformed with mutant F49YhRes showed significantly reduced survival compared with wild-type hRes. Each experiment was carried out in triplicate. The error bars represent SEM.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3" coords="5,38.38,250.82,245.01,6.42;5,38.38,259.41,245.05,6.97;5,38.38,268.73,245.03,6.42;5,38.38,277.69,245.04,6.42;5,38.38,286.70,245.05,6.42;5,38.38,295.30,245.03,6.97;5,38.38,304.62,245.02,6.42;5,38.38,313.21,245.06,6.97;5,38.38,322.17,245.02,6.97;5,38.38,331.49,245.04,6.42;5,38.38,340.51,245.07,6.42;5,38.38,349.46,245.05,6.42;5,38.38,358.42,158.33,6.42"><head>Fig. 5 .</head><label>5</label><figDesc xml:id="_aVagpX5">Fig. 5. Levels of secreted resistin were reduced under ER stress. U937 cells were treated with 5 μg/mL of tn (A) or of tp (B) for 6, 12, and 24 h. ELISA was performed with the supernatants of the treated cells. Note the reduced secretion of resistin in tn/tp-treated cells compared with untreated controls. Statistical analysis was performed by two-way ANOVA and post-Bonferroni test (***P &lt; 0.0001, **P &lt; 0.001). Each experiment was carried out in triplicate. (C) Colocalization of resistin and calreticulin in ER. Untreated U937 cells and those treated with 5 μg/mL of tunicamycin (Tn) or thapsigargin (Tp) for 24 h were processed for confocal microscopy using respective fluorescence-labeled antibodies. ER marker (calreticulin) is shown in green color and resistin in red. Note the merging of the green and red signals in the merged column indicating colocalization of resistin in the ER. Figures are representative of two independent experiments.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4" coords="5,296.90,649.26,245.02,6.42;5,296.90,658.21,245.13,6.42;5,296.90,667.17,245.06,6.42;5,296.90,676.18,245.08,6.42;5,296.90,685.14,245.12,6.42;5,296.90,694.10,245.05,6.42;5,296.90,703.06,245.04,6.42;5,296.90,711.65,245.04,6.97;5,296.90,720.97,144.29,6.42"><head>Fig. 6 .</head><label>6</label><figDesc xml:id="_xZN7Pxg">Fig. 6. Resistin expression causes an inhibition of apoptosis of HeLa cells. HeLa cells were transiently transfected with pCDNA plasmid vector, recombinant pCDNAhRes plasmid construct, or mock transfected (UT) HeLa cells. Apoptosis was induced by treating cells with thapsigargin for 24 h, and the percentage of apoptosed cells was scored by Annexin V staining using FACS. The percentage of cells undergoing apoptosis in untransfected condition was normalized to 100 and results were plotted. Statistical analysis was performed by two-way ANOVA and post-Bonferroni test (***P &lt; 0.0001, **P &lt; 0.001). Each experiment was carried out in triplicate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0" validated="false" coords="1,38.38,104.91,503.57,61.05"><head></head><label></label><figDesc xml:id="_KFvHbfx">School of Life Sciences, Department of Biochemistry, University of Hyderabad, Hyderabad 500046, India; d Kusuma School of Biological Sciences, Indian Institute of Technology, New Delhi 110016, India; and e Inflammation Biology and Cell Signaling Laboratory, National Institute of Pathology, New Delhi 110029, India</figDesc><table coords="1,38.38,104.91,503.54,45.06">, Karunakar Tanneeru 
+b , Lalitha Guruprasad 
+b , 
+Sharmistha Banerjee 
+c , Saurabh Pandey 
+
+a 
+
+, Tapan K. Chaudhuri 
+d , and Nasreen Zafar Ehtesham 
+
+a,e,1 
+
+a 
+
+Dr. Reddy's Institute of Life Sciences, University of Hyderabad, Hyderabad 500046, India; 
+b School of Chemistry, University of Hyderabad, Hyderabad 500046, 
+India; 
+
+c 
+
+</table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1" validated="false" coords="3,296.90,120.05,245.04,27.70"><head></head><label></label><figDesc xml:id="_dnRaZzZ">rhRes Can Rescue E. coli Cells from Thermal Shock. Results presented so far provide in vitro demonstration of chaperone-like activity of</figDesc><table></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20468" xml:id="_a5Xh4YD">| www.pnas.org/cgi/doi/10.1073/pnas.1306145110 Suragani et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20470" xml:id="_q77ttFH">| www.pnas.org/cgi/doi/10.1073/pnas.1306145110 Suragani et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20472" xml:id="_ZDjnZDz">| www.pnas.org/cgi/doi/10.1073/pnas.1306145110 Suragani et al.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_XGXcU2M" />
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct coords="6,53.74,342.28,234.20,5.50;6,53.74,350.27,52.90,5.50" xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_xStz72F">The hormone resistin links obesity to diabetes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Claire</forename><forename type="middle">M</forename><surname>Steppan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shannon</forename><forename type="middle">T</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Savitha</forename><surname>Bhat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elizabeth</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ronadip</forename><forename type="middle">R</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christopher</forename><forename type="middle">M</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiralben</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rexford</forename><forename type="middle">S</forename><surname>Ahima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mitchell</forename><forename type="middle">A</forename><surname>Lazar</surname></persName>
+		</author>
+		<idno type="doi">10.1038/35053000</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_aNDjbFP">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">409</biblScope>
+			<biblScope unit="issue">6818</biblScope>
+			<biblScope unit="page" from="307" to="312" />
+			<date type="published" when="2001-01" />
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.75,358.21,234.21,5.50;6,53.75,366.20,224.06,5.50" xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_AAZRW22">Resistin is expressed in human macrophages and directly regulated by PPARγ activators</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lisa</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amy</forename><forename type="middle">C</forename><surname>Buckels</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ian</forename><forename type="middle">J</forename><surname>Kinghorn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paul</forename><forename type="middle">R</forename><surname>Murdock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joanna</forename><forename type="middle">D</forename><surname>Holbrook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christopher</forename><surname>Plumpton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Colin</forename><forename type="middle">H</forename><surname>Macphee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephen</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="doi">10.1016/s0006-291x(02)02841-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5JQ9tDu">Biochemical and Biophysical Research Communications</title>
+		<title level="j" type="abbrev">Biochemical and Biophysical Research Communications</title>
+		<idno type="ISSN">0006-291X</idno>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="472" to="476" />
+			<date type="published" when="2003-01" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.75,374.20,234.20,5.50;6,53.75,382.13,234.22,5.50;6,53.75,390.13,234.24,5.50;6,53.75,398.07,117.77,5.50" xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_aFPw4g2">Circulating Resistin Levels Are Not Associated with Obesity or Insulin Resistance in Humans and Are Not Regulated by Fasting or Leptin Administration: Cross-Sectional and Interventional Studies in Normal, Insulin-Resistant, and Diabetic Subjects</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jennifer</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jean</forename><forename type="middle">L</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nikos</forename><surname>Yiannakouris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Meropi</forename><surname>Kontogianni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elizabeth</forename><surname>Estrada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Richard</forename><surname>Seip</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christine</forename><surname>Orlova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christos</forename><forename type="middle">S</forename><surname>Mantzoros</surname></persName>
+		</author>
+		<idno type="doi">10.1210/jc.2003-030519</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MekeRJ4">The Journal of Clinical Endocrinology &amp; Metabolism</title>
+		<title level="j" type="abbrev">The Journal of Clinical Endocrinology &amp; Metabolism</title>
+		<idno type="ISSN">0021-972X</idno>
+		<idno type="ISSNe">1945-7197</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="4848" to="4856" />
+			<date type="published" when="2003-10" />
+			<publisher>The Endocrine Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.75,406.06,234.18,5.50;6,53.75,414.00,234.23,5.50;6,53.75,421.99,87.72,5.50" xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_NvyDtr8">Human resistin stimulates the pro-inflammatory cytokines TNF-α and IL-12 in macrophages by NF-κB-dependent pathway</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nirupama</forename><surname>Silswal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anil</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Battu</forename><surname>Aruna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sangita</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sudip</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nasreen</forename><forename type="middle">Z</forename><surname>Ehtesham</surname></persName>
+		</author>
+		<idno type="doi">10.1016/j.bbrc.2005.06.202</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_q9TDMRb">Biochemical and Biophysical Research Communications</title>
+		<title level="j" type="abbrev">Biochemical and Biophysical Research Communications</title>
+		<idno type="ISSN">0006-291X</idno>
+		<imprint>
+			<biblScope unit="volume">334</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1092" to="1101" />
+			<date type="published" when="2005-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.74,429.98,234.23,5.50;6,53.75,437.92,106.92,5.50" xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_YJehBjD">Role of resistin in inflammation and inflammation-related diseases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Pang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Le</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Ky8rnmT">Cell Mol Immunol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="34" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.75,445.92,234.20,5.50;6,53.75,453.54,215.50,5.98" xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_abbnSvf">Resistin messenger-RNA expression is increased by proinflammatory cytokines in vitro</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kaser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kaser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sandhofer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">F</forename><surname>Ebenbichler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tilg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Patsch</surname></persName>
+		</author>
+		<idno type="doi">10.1016/j.bbrc.2003.07.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JFJrmMm">Biochemical and Biophysical Research Communications</title>
+		<title level="j" type="abbrev">Biochemical and Biophysical Research Communications</title>
+		<idno type="ISSN">0006-291X</idno>
+		<imprint>
+			<biblScope unit="volume">309</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="286" to="290" />
+			<date type="published" when="2003-09" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.75,461.85,234.16,5.50;6,53.75,469.84,78.12,5.50" xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ek9pncy">An Inflammatory Cascade Leading to Hyperresistinemia in Humans</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><surname>Lehrke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Muredach</forename><forename type="middle">P</forename><surname>Reilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Segan</forename><forename type="middle">C</forename><surname>Millington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nayyar</forename><surname>Iqbal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daniel</forename><forename type="middle">J</forename><surname>Rader</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mitchell</forename><forename type="middle">A</forename><surname>Lazar</surname></persName>
+		</author>
+		<idno type="doi">10.1371/journal.pmed.0010045</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Ges5D7p">PLoS Medicine</title>
+		<title level="j" type="abbrev">PLoS Med</title>
+		<idno type="ISSNe">1549-1676</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">e45</biblScope>
+			<date type="published" when="2004-11-30" />
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.75,477.78,234.22,5.50;6,53.75,485.77,234.20,5.50;6,53.75,493.71,120.35,5.50" xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_wKfp5gM">The genomic organization of mouse resistin reveals major differences from the human resistin: functional implications</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sudip</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anil</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Battu</forename><surname>Aruna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sangita</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nasreen</forename><forename type="middle">Z</forename><surname>Ehtesham</surname></persName>
+		</author>
+		<idno type="doi">10.1016/s0378-1119(02)01213-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vpCtg3j">Gene</title>
+		<title level="j" type="abbrev">Gene</title>
+		<idno type="ISSN">0378-1119</idno>
+		<imprint>
+			<biblScope unit="volume">305</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="34" />
+			<date type="published" when="2003-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,53.75,501.70,234.18,5.50;6,53.75,509.64,234.17,5.50" xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZqSqNRw">Human Recombinant Resistin Protein Displays a Tendency To Aggregate by Forming Intermolecular Disulfide Linkages†</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Battu</forename><surname>Aruna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sudip</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anil</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shekhar</forename><forename type="middle">C</forename><surname>Mande</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Srinivas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Radha</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nasreen</forename><forename type="middle">Z</forename><surname>Ehtesham</surname></persName>
+		</author>
+		<idno type="doi">10.1021/bi034782v</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sXyufS7">Biochemistry</title>
+		<title level="j" type="abbrev">Biochemistry</title>
+		<idno type="ISSN">0006-2960</idno>
+		<idno type="ISSNe">1520-4995</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">36</biblScope>
+			<biblScope unit="page" from="10554" to="10559" />
+			<date type="published" when="2003-09" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,54.03,517.63,233.94,5.50;6,54.03,525.63,191.26,5.50" xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_cxWRR4x">Biophysical Analyses of Human Resistin: Oligomer Formation Suggests Novel Biological Function†</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Battu</forename><surname>Aruna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Asimul</forename><surname>Islam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sudip</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anil</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Malladi</forename><surname>Vijayalakshmi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Faizan</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nasreen</forename><forename type="middle">Z</forename><surname>Ehtesham</surname></persName>
+		</author>
+		<idno type="doi">10.1021/bi801266k</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_craJsmS">Biochemistry</title>
+		<title level="j" type="abbrev">Biochemistry</title>
+		<idno type="ISSN">0006-2960</idno>
+		<idno type="ISSNe">1520-4995</idno>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">47</biblScope>
+			<biblScope unit="page" from="12457" to="12466" />
+			<date type="published" when="2008-11-25" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,54.03,533.56,233.90,5.50;6,54.03,541.56,233.96,5.50;6,54.03,549.50,108.43,5.50" xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_k4Ure4E">Correlation of Membrane Binding and Hydrophobicity to the Chaperone-Like Activity of PDC-109, the Major Protein of Bovine Seminal Plasma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rajeshwer</forename><forename type="middle">S</forename><surname>Sankhala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rajani</forename><forename type="middle">S</forename><surname>Damai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Musti</forename><forename type="middle">J</forename><surname>Swamy</surname></persName>
+		</author>
+		<idno type="doi">10.1371/journal.pone.0017330</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gBTaNqm">PLoS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">e17330</biblScope>
+			<date type="published" when="2011-03-08" />
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,54.03,557.49,233.87,5.50;6,54.03,565.48,157.61,5.50" xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_mFNYyBU">Alpha-crystallin can act as a chaperone under conditions of oxidative stress</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spector</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3nMEkCf">Invest Ophthalmol Vis Sci</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="311" to="321" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,54.03,573.42,233.92,5.50;6,54.03,581.41,104.79,5.50" xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_BfVBhxk">Endoplasmic Reticulum Stress Regulates Adipocyte Resistin Expression</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">I</forename><surname>Lefterova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Mullican</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tomaru</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Qatanani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Lazar</surname></persName>
+		</author>
+		<idno type="doi">10.2337/db08-1706</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_a5RR9TP">Diabetes</title>
+		<title level="j" type="abbrev">Diabetes</title>
+		<idno type="ISSN">0012-1797</idno>
+		<idno type="ISSNe">1939-327X</idno>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1879" to="1886" />
+			<date type="published" when="2009-06-02" />
+			<publisher>American Diabetes Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,54.03,589.35,233.94,5.50;6,54.03,597.35,101.71,5.50" xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_vxZEMuw">Comparative protein modelling by satisfaction of spatial restraints</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sali</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">L</forename><surname>Blundell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7cfVpmE">J Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">234</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="779" to="815" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,54.03,605.28,233.93,5.50;6,54.03,613.28,233.91,5.50;6,54.03,621.26,146.78,5.51" xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_66NZY6Y">Assaying proteins for molecular chaperone activity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Garrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WhzTF7r">Methods in Plant Cell Biology</title>
+		<editor>Galbraith DW, Bourque DP, Bohnert HJ</editor>
+		<imprint>
+			<biblScope unit="page" from="3" to="555" />
+			<date type="published" when="1995" />
+			<publisher>Academic Press</publisher>
+		</imprint>
+	</monogr>
+	<note>San Diego)</note>
+</biblStruct>
+
+<biblStruct coords="6,54.03,629.20,203.62,5.50" xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_WqfD9uW">The molecular chaperone concept</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Ellis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Yq8mqyN">Semin Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,54.03,637.20,233.92,5.50;6,54.03,645.13,216.59,5.50" xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_kZFeaN6">Facilitated Oligomerization of Mycobacterial GroEL: Evidence for Phosphorylation-Mediated Oligomerization</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Khare</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">V</forename><surname>Srikanth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Tyagi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Sardesai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Mande</surname></persName>
+		</author>
+		<idno type="doi">10.1128/jb.00652-09</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gCEGaTJ">Journal of Bacteriology</title>
+		<title level="j" type="abbrev">Journal of Bacteriology</title>
+		<idno type="ISSN">0021-9193</idno>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="6525" to="6538" />
+			<date type="published" when="2009-08-28" />
+			<publisher>American Society for Microbiology</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,342.28,233.98,5.50;6,312.55,350.61,192.76,5.50" xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_PNr5jQY">Erratum to “Comparative studies of resistin expression and phylogenomics in human and mouse” [Biochem. Biophys. Res. Commun. 310 (2003) 927–935]</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rong-Ze</forename><forename type="middle">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Qing</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aihua</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">C</forename><surname>Mclenithan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jonathan</forename><forename type="middle">A</forename><surname>Eisen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alan</forename><forename type="middle">R</forename><surname>Shuldiner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Serhan</forename><surname>Alkan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Da-Wei</forename><surname>Gong</surname></persName>
+		</author>
+		<idno type="doi">10.1016/j.bbrc.2003.11.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HnN7mA2">Biochemical and Biophysical Research Communications</title>
+		<title level="j" type="abbrev">Biochemical and Biophysical Research Communications</title>
+		<idno type="ISSN">0006-291X</idno>
+		<imprint>
+			<biblScope unit="volume">312</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">866</biblScope>
+			<date type="published" when="2003-12" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,358.61,233.95,5.50;6,312.55,366.94,233.89,5.50;6,312.55,375.27,24.38,5.50" xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_cQpPUP3">Temperature-induced exposure of hydrophobic surfaces and its effect on the chaperone activity of α-crystallin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kali</forename><forename type="middle">P</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Witold</forename><forename type="middle">K</forename><surname>Surewicz</surname></persName>
+		</author>
+		<idno type="doi">10.1016/0014-5793(95)00775-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5NFzPtV">FEBS Letters</title>
+		<idno type="ISSN">0014-5793</idno>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="321" to="325" />
+			<date type="published" when="1995-08-07" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,383.21,233.93,5.50;6,312.55,391.55,233.94,5.50;6,312.55,399.88,107.13,5.50" xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ryn6Cwk">Hydroimidazolone Modification of the Conserved Arg12 in Small Heat Shock Proteins: Studies on the Structure and Chaperone Function Using Mutant Mimics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ram</forename><forename type="middle">H</forename><surname>Nagaraj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alok</forename><forename type="middle">Kumar</forename><surname>Panda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shilpa</forename><surname>Shanthakumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Puttur</forename><surname>Santhoshkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nagarekha</forename><surname>Pasupuleti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Benlian</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ashis</forename><surname>Biswas</surname></persName>
+		</author>
+		<idno type="doi">10.1371/journal.pone.0030257</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_z9tMjey">PLoS ONE</title>
+		<title level="j" type="abbrev">PLoS ONE</title>
+		<idno type="ISSNe">1932-6203</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">e30257</biblScope>
+			<date type="published" when="2012-01-17" />
+			<publisher>Public Library of Science (PLoS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,407.87,225.97,5.50" xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_WpRFrzg">Chaperone machines in action</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">R</forename><surname>Saibil</surname></persName>
+		</author>
+		<idno type="doi">10.1016/j.sbi.2007.11.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BNHcyzF">Current Opinion in Structural Biology</title>
+		<title level="j" type="abbrev">Current Opinion in Structural Biology</title>
+		<idno type="ISSN">0959-440X</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="42" />
+			<date type="published" when="2008-02" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,415.81,233.92,5.50;6,312.55,424.14,233.91,5.50;6,312.55,432.48,224.87,5.50" xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_CnHwRVf">Clusterin Is an ATP−Independent Chaperone with Very Broad Substrate Specificity that Stabilizes Stressed Proteins in a Folding-Competent State†</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephen</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Simon</forename><forename type="middle">B</forename><surname>Easterbrook-Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mark</forename><forename type="middle">S</forename><surname>Rybchyn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">A</forename><surname>Carver</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mark</forename><forename type="middle">R</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="doi">10.1021/bi002189x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qqugcwA">Biochemistry</title>
+		<title level="j" type="abbrev">Biochemistry</title>
+		<idno type="ISSN">0006-2960</idno>
+		<idno type="ISSNe">1520-4995</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">51</biblScope>
+			<biblScope unit="page" from="15953" to="15960" />
+			<date type="published" when="2000-12" />
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,440.47,233.93,5.50;6,312.55,448.81,162.49,5.50" xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_fNK2BDz">Genetic selection designed to stabilize proteins uncovers a chaperone called Spy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shu</forename><surname>Quan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Philipp</forename><surname>Koldewey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tim</forename><surname>Tapley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nadine</forename><surname>Kirsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karen</forename><forename type="middle">M</forename><surname>Ruane</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jennifer</forename><surname>Pfizenmaier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rong</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephan</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Linda</forename><surname>Foit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guoping</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ursula</forename><surname>Jakob</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhaohui</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Miroslaw</forename><surname>Cygler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">C A</forename><surname>Bardwell</surname></persName>
+		</author>
+		<idno type="doi">10.1038/nsmb.2016</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_b3BcVa3">Nature Structural &amp; Molecular Biology</title>
+		<title level="j" type="abbrev">Nat Struct Mol Biol</title>
+		<idno type="ISSN">1545-9993</idno>
+		<idno type="ISSNe">1545-9985</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="262" to="269" />
+			<date type="published" when="2011-02-13" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,456.74,233.88,5.50;6,312.55,465.08,233.91,5.50;6,312.55,473.41,24.38,5.50" xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_s3UkbBy">Cross-talk between Cellular Stress, Cell Cycle and Anticancer Agents: Mechanistic Aspects</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tiligada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Miligkos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Delitheos</surname></persName>
+		</author>
+		<idno type="doi">10.2174/1568011023353976</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yWthNsF">Current Medicinal Chemistry-Anti-Cancer Agents</title>
+		<title level="j" type="abbrev">CMCACA</title>
+		<idno type="ISSN">1568-0118</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="553" to="566" />
+			<date type="published" when="2002-07-01" />
+			<publisher>Bentham Science Publishers Ltd.</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,481.41,233.91,5.50;6,312.55,489.74,87.41,5.50" xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_3Ya3jxX">DNA damage signals facilitate osmotic stress adaptation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Kültz</surname></persName>
+		</author>
+		<idno type="doi">10.1152/ajprenal.00175.2005</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AHPVCuG">American Journal of Physiology-Renal Physiology</title>
+		<title level="j" type="abbrev">American Journal of Physiology-Renal Physiology</title>
+		<idno type="ISSN">1931-857X</idno>
+		<idno type="ISSNe">1522-1466</idno>
+		<imprint>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="F504" to="F505" />
+			<date type="published" when="2005-09" />
+			<publisher>American Physiological Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,497.73,233.91,5.50;6,312.55,506.07,58.19,5.50" xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_GE7qsQs">Endoplasmic Reticulum Stress Signaling in Disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stefan</forename><forename type="middle">J</forename><surname>Marciniak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><surname>Ron</surname></persName>
+		</author>
+		<idno type="doi">10.1152/physrev.00015.2006</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Hhn3xZB">Physiological Reviews</title>
+		<title level="j" type="abbrev">Physiological Reviews</title>
+		<idno type="ISSN">0031-9333</idno>
+		<idno type="ISSNe">1522-1210</idno>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1133" to="1149" />
+			<date type="published" when="2006-10" />
+			<publisher>American Physiological Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,514.01,233.98,5.50;6,312.55,522.34,233.96,5.50;6,312.55,530.67,136.14,5.50" xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_G22bxKn">A Subset of Chaperones and Folding Enzymes Form Multiprotein Complexes in Endoplasmic Reticulum to Bind Nascent Proteins</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laurent</forename><surname>Meunier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Young-Kwang</forename><forename type="middle">K</forename><surname>Usherwood</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kyung</forename><forename type="middle">Tae</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Linda</forename><forename type="middle">M</forename><surname>Hendershot</surname></persName>
+		</author>
+		<idno type="doi">10.1091/mbc.e02-05-0311</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wS58Svw">Molecular Biology of the Cell</title>
+		<title level="j" type="abbrev">MBoC</title>
+		<idno type="ISSN">1059-1524</idno>
+		<idno type="ISSNe">1939-4586</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="4456" to="4469" />
+			<date type="published" when="2002-12" />
+			<publisher>American Society for Cell Biology (ASCB)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,538.67,233.92,5.50;6,312.55,547.00,227.30,5.50" xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_H4ajaVp">Pronounced elevation of resistin correlates with severity of disease in severe sepsis and septic shock</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jonas</forename><surname>Sundén-Cullberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><surname>Nyström</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gail</forename><forename type="middle">E</forename><surname>Mullins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leif</forename><surname>Tokics</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jan</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anna</forename><surname>Norrby-Teglund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carl</forename><forename type="middle">Johan</forename><surname>Treutiger</surname></persName>
+		</author>
+		<idno type="doi">10.1097/01.ccm.0000266536.14736.03</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6QcJsMU">Critical Care Medicine</title>
+		<title level="j" type="abbrev">Critical Care Medicine</title>
+		<idno type="ISSN">0090-3493</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1536" to="1542" />
+			<date type="published" when="2007-06" />
+			<publisher>Ovid Technologies (Wolters Kluwer Health)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,554.94,233.91,5.50;6,312.55,563.27,233.92,5.50" xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_tYamYJa">Treatment end point determinants for pulmonary tuberculosis: Human resistin as a surrogate biomarker</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nasreen</forename><forename type="middle">Z</forename><surname>Ehtesham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mohammad</forename><surname>Nasiruddin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ayesha</forename><surname>Alvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Battula</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Niyaz</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sundaresh</forename><surname>Peri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kolluri</forename><forename type="middle">J R</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seyed</forename><forename type="middle">E</forename><surname>Hasnain</surname></persName>
+		</author>
+		<idno type="doi">10.1016/j.tube.2011.04.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_43Nv3VS">Tuberculosis</title>
+		<title level="j" type="abbrev">Tuberculosis</title>
+		<idno type="ISSN">1472-9792</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="293" to="299" />
+			<date type="published" when="2011-07" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,571.27,233.95,5.50;6,312.55,579.60,233.94,5.50;6,312.55,587.93,37.56,5.50" xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_4jyfT4z">Parkin Suppresses Unfolded Protein Stress-induced Cell Death through Its E3 Ubiquitin-protein Ligase Activity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuzuru</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mariko</forename><surname>Soda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ryosuke</forename><surname>Takahashi</surname></persName>
+		</author>
+		<idno type="doi">10.1074/jbc.c000447200</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wUx3WZV">Journal of Biological Chemistry</title>
+		<title level="j" type="abbrev">J. Biol. Chem.</title>
+		<idno type="ISSN">0021-9258</idno>
+		<idno type="ISSNe">1083-351X</idno>
+		<imprint>
+			<biblScope unit="volume">275</biblScope>
+			<biblScope unit="issue">46</biblScope>
+			<biblScope unit="page" from="35661" to="35664" />
+			<date type="published" when="2000-09-05" />
+			<publisher>American Society for Biochemistry &amp; Molecular Biology (ASBMB)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,595.87,233.95,5.50;6,312.55,604.20,101.88,5.50" xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_7hYNpn3">From endoplasmic-reticulum stress to the inflammatory response</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kezhong</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Randal</forename><forename type="middle">J</forename><surname>Kaufman</surname></persName>
+		</author>
+		<idno type="doi">10.1038/nature07203</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SbF6Bbd">Nature</title>
+		<title level="j" type="abbrev">Nature</title>
+		<idno type="ISSN">0028-0836</idno>
+		<idno type="ISSNe">1476-4687</idno>
+		<imprint>
+			<biblScope unit="volume">454</biblScope>
+			<biblScope unit="issue">7203</biblScope>
+			<biblScope unit="page" from="455" to="462" />
+			<date type="published" when="2008-07" />
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,612.19,233.93,5.50;6,312.55,620.53,233.93,5.50;6,312.55,628.86,24.38,5.50" xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_sDnbAsc">The role of resistin as a regulator of inflammation: Implications for various human pathologies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mária</forename><surname>Filková</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Haluzík</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Steffen</forename><surname>Gay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ladislav</forename><surname>Šenolt</surname></persName>
+		</author>
+		<idno type="doi">10.1016/j.clim.2009.07.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_94M3F96">Clinical Immunology</title>
+		<title level="j" type="abbrev">Clinical Immunology</title>
+		<idno type="ISSN">1521-6616</idno>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="170" />
+			<date type="published" when="2009-11" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="6,312.55,636.80,233.95,5.50;6,312.55,645.13,160.73,5.50" xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_S2k54fr">Biophysical characterization and unfolding of LEF4 factor of RNA polymerase fromAcNPV</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sheeba</forename><surname>Rasheedi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Madhuri</forename><surname>Suragani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Soghra</forename><forename type="middle">K</forename><surname>Haq</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sudip</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nasreen</forename><forename type="middle">Z</forename><surname>Ehtesham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seyed</forename><forename type="middle">E</forename><surname>Hasnain</surname></persName>
+		</author>
+		<idno type="doi">10.1002/bip.21180</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KPGvPWW">Biopolymers</title>
+		<title level="j" type="abbrev">Biopolymers</title>
+		<idno type="ISSN">0006-3525</idno>
+		<idno type="ISSNe">1097-0282</idno>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="574" to="582" />
+			<date type="published" when="2009-07" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

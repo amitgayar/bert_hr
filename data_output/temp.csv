@@ -1,0 +1,37 @@
+,0,1
+0,"protein folding | chaperokine R esistin, a small cysteine-rich secreted protein, is predominantly produced in human macrophages (1,2)",2
+1,"protein folding | chaperokine R esistin, a small cysteine-rich secreted protein, is predominantly produced in human macrophages (1,2)",2
+2,"We, and later others, showed that human resistin (hRes) is a proinflammatory molecule that stimulates the synthesis and secretion of TNF-α and IL-12 from macrophages through an NF-κB-activated pathway (4,5)",2
+3,"We, and later others, showed that human resistin (hRes) is a proinflammatory molecule that stimulates the synthesis and secretion of TNF-α and IL-12 from macrophages through an NF-κB-activated pathway (4,5)",2
+4,"hRes mRNA levels are strongly induced by TNF-α and IL-6 in human peripheral blood mononuclear cells (6,7)",2
+5,"hRes mRNA levels are strongly induced by TNF-α and IL-6 in human peripheral blood mononuclear cells (6,7)",2
+6,"Although human and mouse resistin share 64.4 and 59% sequence homology at mRNA and amino acids levels, respectively, they differ considerably in terms of their structural organization (8)",2
+7,"We earlier reported, based on extensive biophysical analyses, that recombinant human resistin (rhRes) is a highly stable molecule that exists in oligomeric states as a function of concentration with no major loss in helicity and displays slightly altered tertiary structure with an increase in temperature (9,10)",2
+8,"We earlier reported, based on extensive biophysical analyses, that recombinant human resistin (rhRes) is a highly stable molecule that exists in oligomeric states as a function of concentration with no major loss in helicity and displays slightly altered tertiary structure with an increase in temperature (9,10)",contradicting
+9,"The variable oligomeric states and poly-dispersity of hRes are features often attributed to chaperones (11,12)",2
+10,"The variable oligomeric states and poly-dispersity of hRes are features often attributed to chaperones (11,12)",2
+11,mRNA levels of resistin were earlier found to be down-regulated during endoplasmic reticulum (ER) stress in rodent adipocytes (13).,2
+12,"The 3D structures of the trimeric and hexameric forms of wild-type hRes, built using MODELER by using mouse resistin as a template (14)  (Fig S1A), generated rmsd values of 0.213 and 0.533 Å for trimer and hexamer, respectively",2
+13,"Our earlier studies (9,10) showed that the molecular mass of hRes varied between 11.3 and 600 kDa in solution",contradicting
+14,"Our earlier studies (9,10) showed that the molecular mass of hRes varied between 11.3 and 600 kDa in solution",contradicting
+15,Light-scattering assay to monitor aggregation was carried out by measuring absorbance (320 nm) of thermally denatured citrate synthase (CS) (15) and Nde1 in the absence or presence of rhRes/F49YrhRes (Fig 1),2
+16,"We then examined whether rhRes can protect CS and Nde1 from thermal aggregation, a property common to most chaperones (16)",contradicting
+17,The human leukemic monocyte lymphoma cell line U937 was used for these studies as they were shown to express resistin in high abundance (18),2
+18,"Discussion hRes, a small cysteine-rich secretory protein produced in macrophages, although initially proposed to be a link between diabetes and insulin resistance, is emerging as an important player in inflammation (4,5)",2
+19,"Discussion hRes, a small cysteine-rich secretory protein produced in macrophages, although initially proposed to be a link between diabetes and insulin resistance, is emerging as an important player in inflammation (4,5)",2
+20,Our previous studies showed that rhRes is an extremely stable molecule whose structure was insignificantly altered as a function of temperature (9),supporting
+21,"Surface hydrophobicity is critical for chaperones as these are considered instrumental in interactions with unfolded or misfolded proteins (19), and replacement of any of these hydrophobic residues with hydrophilic residues should result in significant structural alterations, which would then disrupt interaction with misfolded proteins, as reported for some heat-shock proteins (20)",2
+22,"Surface hydrophobicity is critical for chaperones as these are considered instrumental in interactions with unfolded or misfolded proteins (19), and replacement of any of these hydrophobic residues with hydrophilic residues should result in significant structural alterations, which would then disrupt interaction with misfolded proteins, as reported for some heat-shock proteins (20)",2
+23,Increased molecular rearrangements accompanied by higher affinity for unfolded proteins is considered a paradigm of chaperone action (21),contradicting
+24,"Similar examples of proteins that work like a chaperone under cellular stress conditions in the absence of ATP hydrolysis have been reported; these include Clusterin (22), which is a secretory mammalian chaperone, and Spy (23), an E",2
+25,Cellular responses to stress can progress to apoptosis or adaptive responses (24),contradicting
+26,"Stress induces different responses depending upon its nature, duration, and severity (25)",2
+27,"Celluar stress is often manifested by the accumulation of unfolded or misfolded proteins in the ER, leading to UPR in eukaryotes (26)",2
+28,This is in agreement with literature reports that chaperones are restricted to the ER upon stress to assist in the refolding of misfolded proteins (27).,2
+29,hRes was suggested as a biomarker for disease staging and treatment end-point determination in tuberculosis (29),2
+30,"Some human disorders, such as Alzheimer's disease, Parkinson's disease, cystic fibrosis, and neuronal damage by ischemia, are related to ER stress, which leads to intraluminal accumulation of unfolded proteins (30)",2
+31,"The unfolded protein responses are central to inflammatory disorders, thereby establishing a fine link between protein folding and inflammation (31).",2
+32,"hRes therefore may have a role in modulating UPR during ER stress under physiological conditions in addition to its role as a regulator of inflammation (4,32)",2
+33,"hRes therefore may have a role in modulating UPR during ER stress under physiological conditions in addition to its role as a regulator of inflammation (4,32)",2
+34,"Recombinant proteins (rhRes and F49YrhRes) were purified by affinity chromatography as described (9), and the purity was checked by FPLC and mass spectrometry",2
+35,"One micromolar of each protein, namely of rhRes, F49YrhRes, CS, and Nde1 (5 U), was incubated at 45°C for 45 min, and the aggregation was monitored by light scattering at 320 nm using a PerkinElmer spectrofluorometer as per protocol described earlier (15).",2
